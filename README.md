@@ -1,4 +1,4 @@
-#Exercise 
+
 Exercise for the job application which is to deploy ML models with FastAPI and docker
 
 Data use for this assignment was download from sckit-learn datasets
